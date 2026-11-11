@@ -25,7 +25,7 @@ EOC: 0.4358974358974359
 
 ## Data
 
-The data files are not included in this repository because CourseKata provided them for DataFest only. They covered 1,565 students in 48 classes:
+The data files are not included in this repository because CourseKata provided them for DataFest. They covered 1,565 students in 48 classes:
 
 - `checkpoints_eoc.csv`: EOC scores and attempts
 - `checkpoints_pulse.csv`: motivation survey responses
